@@ -1,0 +1,10 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-8%",
+  "speech_lead": 0.4,
+  "end_pause": 0.5,
+  "cues": [
+    "Each token leaves behind two vectors: a key and a value. One attention head is shown here.",
+    "Decoding appends another key–value pair. The earlier vectors stay in the cache."
+  ]
+}

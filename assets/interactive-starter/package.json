@@ -1,0 +1,8 @@
+{
+  "name": "manim-interactive-starter",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": { "manim-web": "0.3.24" },
+  "devDependencies": { "esbuild": "0.25.12" }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Manim Animations"
+  short_description: "Manim films, narration, and interactive playgrounds"
+  default_prompt: "Use $create-manim-animations to build a narrated Manim film and an interactive browser playground for this concept."
