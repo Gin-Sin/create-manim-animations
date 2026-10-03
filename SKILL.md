@@ -23,6 +23,7 @@ These runtimes have different APIs. Do not silently replace a requirement for Py
 Read only the relevant guides:
 
 - [Film and visual design](references/film-and-design.md): storyboard, setup, typography, equations, scenes, and rendering.
+- [3Blue1Brown pattern catalog](references/3b1b-patterns.md): nine timestamped patterns, staging and timing recipes, Manim implementations, and interactive adaptations. Read when a 3B1B-inspired explanation or animation-pattern guidance is requested.
 - [Narration and sound](references/narration-and-sound.md): canonical script, measured speech, holds, effects, mixing, and captions.
 - [Interactive animation](references/interactive-animation.md): native/browser choices, state transitions, lifecycle, accessibility, and runnable starter.
 - [Validation and publishing](references/validation-and-publishing.md): artifact review, interaction checks, reproducibility, and GitHub Pages.
@@ -37,6 +38,8 @@ Read only the relevant guides:
 5. Render a draft, inspect motion and stills, then render delivery quality. Derive timing metadata from the rendered timeline rather than manually maintained offsets.
 
 For a 3Blue1Brown reference, study introduction order, equation-to-object correspondence, restrained color, serif typography, and purposeful continuity. A black background alone does not deliver that explanatory quality. Create original scenes; visual inspiration does not imply imitating a person's voice.
+
+Use the pattern catalog to choose techniques that explain the current operation. Record the selected pattern, its semantic invariant, and the cue/event it supports in the storyboard. Consult the linked source notes to distinguish observed reference behavior from this skill's original timing recipes. Do not apply all patterns to every scene.
 
 ## Keep narration exact and timed
 

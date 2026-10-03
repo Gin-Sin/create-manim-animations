@@ -56,6 +56,8 @@ Python `run_time` differs from the browser's `duration`. Verify constructors usi
 
 Use semantic phases. Copy-on-write should show copied contents before the append so the preserved original is visible. For a pulse following multiple path segments, weight duration by distance to avoid speed jumps.
 
+The [3Blue1Brown pattern catalog](3b1b-patterns.md) includes an interactive adaptation for each pattern: selected-item focus, representation toggles, transform sliders, matrix-cell inspection, score normalization, prefix accumulation, detail/overview switches, and window stepping. Preserve object identity across a control change, and derive all displayed intermediate states from the model. The gallery's Python scenes illustrate staging; they are not browser code and require explicit adaptation to the selected runtime.
+
 ## Bundling and lifecycle
 
 Use a local build and lockfile, not an unpinned runtime CDN import. Test under `/repository-name/` as well as the domain root; chunks, fonts, equations, and workers need valid deployed paths.

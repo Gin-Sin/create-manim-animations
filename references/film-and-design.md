@@ -61,6 +61,8 @@ Prefer data-shaped primitives: vectors, aligned rows, braces, memory strips, arr
 
 When using a 3Blue1Brown reference, identify concrete properties: serif proportion, formula scale, stroke weight, introduction order, camera framing, and continuity. Create an original explanation using these principles. Do not claim that Manim alone reproduces the reference's quality.
 
+For concrete choices, use the [3Blue1Brown pattern catalog](3b1b-patterns.md). It maps timestamped examples to nine original runnable scenes in `assets/pattern_gallery.py`, with staging, timing, failure modes, and interactive variants. The [source notes](3b1b-source-notes.md) record how each reference was checked.
+
 ## Scene and timing structure
 
 Separate domain calculations, graphical primitives, chapter construction, and exported metadata. A chapter base class can own the title, narration band, cue times, and review markers.
